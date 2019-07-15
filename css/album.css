@@ -1,1 +1,15 @@
-// custom css for portfolio github.io site //
+strong, h4, p, .text-dark, .text-white {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.row > .py-4 {
+  padding-bottom: 0!important;
+}
+
+.hide {
+    display: none;
+}
